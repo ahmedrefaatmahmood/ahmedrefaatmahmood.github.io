@@ -55,6 +55,14 @@ b {
 	margin: 20px 0px 3px 0px;
 }
 
+.bighdr  {
+	font:20px times;
+	color: Black;
+	/*letter-spacing:.2em;*/
+	font-weight: bold;
+	margin: 20px 0px 3px 0px;
+}
+
 .researchhdr {
 	font:16px times;
 	font-weight: bold;
